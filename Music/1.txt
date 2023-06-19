@@ -1,3 +1,0 @@
-Text-based interface for interface for interacting with operating system.
- Offers precise control and flexibility.
- Allows automation and scripting.
