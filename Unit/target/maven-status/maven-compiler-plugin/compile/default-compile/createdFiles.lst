@@ -1,0 +1,5 @@
+com\app\entity\User.class
+com\app\service\UserService.class
+com\app\controller\UserController.class
+com\app\PurvaApplication.class
+com\app\repository\UserRepository.class

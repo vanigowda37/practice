@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <users>
+        <id>1</id>
+        <username>Pragathi</username>
+        <email>Praga@gmail.com</email>
+    </users>
+    <users>
+        <id>2</id>
+        <username>Monu</username>
+        <email>Monu@gmail.com</email>
+    </users>
+    <users>
+        <id>6</id>
+        <username>Purva</username>
+        <email>purva@gmail.com</email>
+    </users>
+</dataset>
